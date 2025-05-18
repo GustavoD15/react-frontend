@@ -71,7 +71,7 @@ npm start
 
 3. Acesse o aplicativo em seu navegador:
 ```
-http://localhost:3000
+http://localhost:3001
 ```
 
 ## Estrutura do Projeto Frontend
@@ -127,10 +127,3 @@ react-frontend/
 
 O tema e as cores podem ser facilmente personalizados editando o arquivo `tailwind.config.js`.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato através do email: exemplo@email.com
